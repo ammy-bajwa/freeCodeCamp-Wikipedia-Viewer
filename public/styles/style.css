@@ -1,0 +1,18 @@
+#main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   align-items: center;
+   width: 100%;
+   padding: 5%;
+   
+}
+input{
+    border-style: solid;
+    border-radius: 5px;
+    width: 90%;
+    height: 3.5em;
+}
+.btn{
+    margin-top: 10px;
+}
